@@ -1,8 +1,10 @@
 ## Applicazioni Open-Source
 
-You can use the [editor on GitHub](https://github.com/mariodigirolamo/Portfolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### VoiceToTxt
+#### App per la conversione di messaggi audio a testo con possibilità di modifica del testo ottenuto e salvataggio su file.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Clicca qui per l'APK](src)
+[Clicca qui per il codice](src)
 
 ### Markdown
 
